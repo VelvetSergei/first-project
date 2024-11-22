@@ -1,0 +1,20 @@
+.section {
+  width: 768px;
+  background: #F2C94C;
+  padding: 39px 60px;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 35px;
+}
+
+.text_green {
+  color: #589F46;
+}
+
+.text_purple {
+  color: #7125BC;
+}
